@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: rgba(112, 76, 182, 0.2);
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 30px;
+  box-sizing: border-box;
+}
